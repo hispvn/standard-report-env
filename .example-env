@@ -1,0 +1,6 @@
+VITE_FONT=Roboto, sans-serif
+VITE_MODE=production
+VITE_BASE_URL=https://play.dhis2.org/2.38.2.1
+VITE_USERNAME=admin
+VITE_PASSWORD=district
+VITE_REPORT_ID=qlZoKjUiZUW
